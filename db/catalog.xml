@@ -1,0 +1,217 @@
+<?xml version='1.0' standalone='yes'?>
+<items>
+    <item>
+        <name>Tomato and Cheese</name>
+        <category>Pizzas</category>
+        <description></description>
+        <price size="puny">5.50</price>
+        <price size="mid"></price>
+        <price size="big">9.75</price>
+    </item>
+    <item>
+        <name>Onions</name>
+        <category>Pizzas</category>
+        <description></description>
+        <price size="puny">6.85</price>
+        <price size="mid"></price>
+        <price size="big">10.85</price>
+    </item>
+    <item>
+        <name>Peppers</name>
+        <category>Pizzas</category>
+        <description></description>
+        <price size="puny">6.85</price>
+        <price size="mid"></price>
+        <price size="big">10.85</price>
+    </item>
+    <item>
+        <name>Three Aces Special</name>
+        <category>Speciality Pizzas</category>
+        <description>Sliced Tomatoes, Fresh Garlic, Mozzarella and Feta Cheese</description>
+        <price size="puny">9.80</price>
+        <price size="mid"></price>
+        <price size="big">15.80</price>
+    </item>
+    <item>
+        <name>Mediterranean</name>
+        <category>Speciality Pizzas</category>
+        <description>Sliced Tomatoes, Olives, Spinach, Fresh Garlic, Mozzarella and Feta Cheese</description>
+        <price size="puny">9.80</price>
+        <price size="mid"></price>
+        <price size="big">15.80</price>
+    </item>
+    <item>
+        <name>Vegetarian</name>
+        <category>Speciality Pizzas</category>
+        <description>Sliced Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella</description>
+        <price size="puny">9.80</price>
+        <price size="mid"></price>
+        <price size="big">15.80</price>
+    </item>
+    <item>
+        <name>Chicken Wing Dinner</name>
+        <category>Special Dinners</category>
+        <description></description>
+        <price size="big">7.25</price>        
+    </item>
+    <item>
+        <name>Fish and Chips Dinner</name>
+        <category>Special Dinners</category>
+        <description>Served with side salad, french fries and tartar sauce</description>
+        <price size="big">8.25</price>        
+    </item>
+    <item>
+        <name>Chicken Kabob Plate</name>
+        <category>Special Dinners</category>
+        <description>With rice, salad and pita bread</description>
+        <price size="big">7.95</price>        
+    </item>
+    <item>
+        <name>Onion Rings</name>
+        <category>Side Orders</category>
+        <description></description>
+        <price size="puny">2.80</price>
+        <price size="mid"></price>
+        <price size="big">3.10</price>
+    </item>
+    <item>
+        <name>French Fries</name>
+        <category>Side Orders</category>
+        <description></description>
+        <price size="puny">2.50</price>
+        <price size="mid"></price>
+        <price size="big">2.90</price>
+    </item>
+    <item>
+        <name>Chicken Wings</name>
+        <category>Side Orders</category>
+        <description></description>
+        <price size="big">5.50</price>        
+    </item>
+    <item>
+        <name>Garden</name>
+        <category>Salads</category>
+        <description></description>
+        <price size="puny">5.50</price>
+        <price size="mid"></price>
+        <price size="big">6.90</price>
+    </item>
+    <item>
+        <name>Greek</name>
+        <category>Salads</category>
+        <description></description>
+        <price size="puny">7.50</price>
+        <price size="mid"></price>
+        <price size="big">8.90</price>
+    </item>
+    <item>
+        <name>Kabob Salad</name>
+        <category>Salads</category>
+        <description>With grilled Chicken and feta cheese</description>
+        <price size="puny">4.50</price>
+        <price size="mid"></price>
+        <price size="big">5.90</price>
+    </item>
+    <item>
+        <name>With Sauce</name>
+        <category>Spaghetti or Ziti</category>
+        <description></description>
+        <price size="big">8.25</price>        
+    </item>
+    <item>
+        <name>A La Three Aces</name>
+        <category>Spaghetti or Ziti</category>
+        <description>Sausage, Mushrooms, Bacon and Ham Topped with Sauce and Mozzarella Cheese</description>
+        <price size="big">12.25</price>        
+    </item>
+    <item>
+        <name>Eggplant Spaghetti or Ziti Dinner</name>
+        <category>Spaghetti or Ziti</category>
+        <description>With Mozzarella Cheese</description>
+        <price size="big">11.25</price>        
+    </item>
+    <item>
+        <name>With Sauce</name>
+        <category>Home made Lasagna Ravioli or Manicotti</category>
+        <description></description>
+        <price size="big">6.35</price>        
+    </item>
+    <item>
+        <name>With Veal</name>
+        <category>Home made Lasagna Ravioli or Manicotti</category>
+        <description></description>
+        <price size="big">7.35</price>        
+    </item>
+    <item>
+        <name>Veggie Lasagna</name>
+        <category>Home made Lasagna Ravioli or Manicotti</category>
+        <description>All Pasta Dinners Served with Garlic Bread and Salad</description>
+        <price size="big">7.35</price>        
+    </item>
+    <item>
+        <name>Vegetarian</name>
+        <category>Homemade Calzones</category>
+        <description></description>
+        <price size="big">7.35</price>        
+    </item>
+    <item>
+        <name>Chicken Cutlet</name>
+        <category>Homemade Calzones</category>
+        <description></description>
+        <price size="big">7.35</price>        
+    </item>
+    <item>
+        <name>Grecian</name>
+        <category>Homemade Calzones</category>
+        <description></description>
+        <price size="big">7.35</price>        
+    </item>
+    <item>
+        <name>Meatless</name>
+        <category>Grinders</category>
+        <description></description>
+        <price size="puny">4.50</price>
+        <price size="mid"></price>
+        <price size="big">5.90</price>        
+    </item>
+    <item>
+        <name>American</name>
+        <category>Grinders</category>
+        <description></description>
+        <price size="puny">5.20</price>
+        <price size="mid"></price>
+        <price size="big">5.70</price>        
+    </item>
+    <item>
+        <name>Tuna</name>
+        <category>Grinders</category>
+        <description></description>
+        <price size="puny">4.20</price>
+        <price size="mid"></price>
+        <price size="big">5.20</price>        
+    </item>
+    <item>
+        <name>B.l.t.</name>
+        <category>Grinders</category>
+        <description>Bacon, Lettuce, Tomato</description>
+        <price size="puny">4.20</price>
+        <price size="mid"></price>
+        <price size="big">5.20</price>        
+    </item>
+    <item>
+        <name>B.l.t.</name>
+        <category>Grinders</category>
+        <description>Bacon, Lettuce, Tomato</description>
+        <price size="puny">4.20</price>
+        <price size="mid"></price>
+        <price size="big">5.20</price>        
+    </item>
+    <item>
+        <name>Steak Bomb</name>
+        <category>Grinders</category>
+        <description>Each Additional Item on Steak Subs $0.25/$0.40</description>
+        <price size="puny">5.20</price>
+        <price size="mid"></price>
+        <price size="big">6.20</price>        
+    </item>
+</items>
